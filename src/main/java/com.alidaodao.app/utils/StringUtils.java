@@ -1,4 +1,4 @@
-package com.alidaodao.app.util;
+package com.alidaodao.app.utils;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;

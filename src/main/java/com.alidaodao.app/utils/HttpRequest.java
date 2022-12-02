@@ -1,7 +1,6 @@
-package com.alidaodao.app.http;
+package com.alidaodao.app.utils;
 
 import com.alibaba.fastjson.JSON;
-import com.alidaodao.app.util.StringUtils;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpStatus;
 import org.apache.http.client.config.RequestConfig;
